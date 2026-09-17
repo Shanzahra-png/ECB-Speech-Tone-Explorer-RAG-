@@ -1,0 +1,13 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+groq
+gradio
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+psutil
