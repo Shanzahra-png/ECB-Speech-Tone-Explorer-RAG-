@@ -66,6 +66,11 @@ User Query
 3. Add a `GROQ_API_KEY` secret in Colab (🔑 icon in the left sidebar) — get a free key at [console.groq.com](https://console.groq.com)
 4. Run all cells top to bottom
 5. The final cell launches a Gradio interface with a shareable link
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/6lNYiQ0uRnQ/maxresdefault.jpg)](https://youtu.be/6lNYiQ0uRnQ)
+#[![alt text](image-url)](link-url)
+#[![Watch the demo] https://youtu.be/6lNYiQ0uRnQ
 
 ## Example queries
 
