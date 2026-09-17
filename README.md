@@ -69,8 +69,6 @@ User Query
 ## Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/6lNYiQ0uRnQ/maxresdefault.jpg)](https://youtu.be/6lNYiQ0uRnQ)
-#[![alt text](image-url)](link-url)
-#[![Watch the demo] https://youtu.be/6lNYiQ0uRnQ
 
 ## Example queries
 
